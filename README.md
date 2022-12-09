@@ -1,5 +1,5 @@
 - Nama  : Notio Putra Pradana
-- NIM   : 3121110450
+- NIM   : 312110450
 - Kelas : TI.21.C.1
 - Tugas : Pemrograman Orientasi Objek
 
